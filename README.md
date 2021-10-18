@@ -12,7 +12,6 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/vchitai/logrgorm2)](https://goreportcard.com/report/github.com/vchitai/logrgorm2)
 [![CodeFactor](https://www.codefactor.io/repository/github/vchitai/logrgorm2/badge)](https://www.codefactor.io/repository/github/vchitai/logrgorm2)
 
-If you're using gorm v1, you can use https://github.com/vchitai/logrgorm instead.
 
 ## Usage
 

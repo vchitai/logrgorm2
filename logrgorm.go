@@ -1,4 +1,4 @@
-package logrgorm
+package logrgorm2
 
 import (
 	"context"
@@ -24,7 +24,7 @@ type Logger struct {
 	ignoreRecordNotFoundError bool
 }
 
-func NewGormLogger(ll logr.Logger) GormLogger {
+func New(ll logr.Logger) GormLogger {
 	return &Logger{
 		ll:                        ll.WithCallDepth(1),
 		slowThreshold:             100 * time.Millisecond,

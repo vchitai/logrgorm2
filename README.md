@@ -4,7 +4,7 @@
 
 [![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white)](https://pkg.go.dev/github.com/vchitai/logrgorm2)
 [![License](https://img.shields.io/badge/license-MIT-%2397ca00.svg)](https://github.com/vchitai/logrgorm2/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/vchitai/logrgorm2.svg)](https://github.com/vchitai/logrgorm2/releases)
+[![GitHub release](https://img.shields.io/github/v/release/vchitai/logrgorm2.svg)](https://github.com/vchitai/logrgorm2/releases)
 [![Made by Vchitai](https://img.shields.io/badge/made%20by-Vchitai-blue.svg?style=flat)](https://vchitai.github.io/)
 
 [![GolangCI](https://golangci.com/badges/github.com/vchitai/logrgorm2.svg)](https://golangci.com/r/github.com/vchitai/logrgorm2)
